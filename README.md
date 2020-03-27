@@ -17,6 +17,6 @@ To run this project run the command
 npm start
 ```
 
-## Rocketsetat
+## Rocketseat
 [Rocketseat](https://rocketseat.com.br/)
 
